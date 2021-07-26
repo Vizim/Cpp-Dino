@@ -1,0 +1,3 @@
+This Text file contains the score of every game youve played along with time:
+
+At time Sat Jul 17 16:19:32 2021 the score was 8.
